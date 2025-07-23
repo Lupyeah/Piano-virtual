@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Um simulador de piano!
 
-- [Para ver no site]
+- [Para ver no site](https://lupyeah.github.io/Piano-virtual/)
 
 ## 📋 Funcionalidades
 
